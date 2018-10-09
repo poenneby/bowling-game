@@ -1,6 +1,6 @@
 # Bowling game Kata
 
-
+<img src="https://github.com/poenneby/bowling-game/blob/master/bowling_score_board.png" width="400" alt="Bowling score board">
 
 ## Rules
 
@@ -20,3 +20,4 @@ for that frame is the value of the next two balls rolled.
 In the tenth frame a player who rolls a spare or strike is allowed to roll the extra
 balls to complete the frame.  However no more than three balls can be rolled in
 tenth frame.
+
